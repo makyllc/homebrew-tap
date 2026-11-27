@@ -1,6 +1,6 @@
 cask "pilcrow" do
-  version "0.1.2"
-  sha256 "34f624ca13148b5176b8e4e69450248714e183b6b7d910d29460484376849b8c"
+  version "0.1.3"
+  sha256 "d42afa497a2d410d545fe0a3c83659f108dd4b8815edc8010bdaa3a9c0abbd56"
 
   url "https://github.com/makyllc/pilcrow-releases/releases/download/v#{version}/Pilcrow-#{version}-arm64-developer-id.dmg"
   name "Pilcrow"
